@@ -1,0 +1,7 @@
+# origin: https://app.mayhem.security/mayhemheroes/rant/compile/19
+project: savantenvs/rant
+target: compile-buggy-mhh-run-19
+
+cmds:
+  - cmd: /mayhem/compile
+    libfuzzer: true

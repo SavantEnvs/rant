@@ -1,0 +1,6 @@
+# origin: https://app.mayhem.security/mayhemheroes/rant/rant-cli/23
+project: savantenvs/rant
+target: rant-cli-buggy-mhh-run-23
+
+cmds:
+  - cmd: /mayhem/rant @@
